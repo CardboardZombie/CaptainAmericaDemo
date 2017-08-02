@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Characters\CapnSprite.png</Source>
+      <Name>Images\Characters\CapnSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CapnSprite.xnb</Output>
+      <Time>2012-10-29T14:28:39.3092785+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\EnemySprite.png</Source>
+      <Name>Images\Characters\EnemySprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\EnemySprite.xnb</Output>
+      <Time>2012-10-29T16:36:54.1266152+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Collectables\Health.png</Source>
+      <Name>Images\Collectables\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Collectables\Health.xnb</Output>
+      <Time>2012-10-31T19:23:15.7793158+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\eTSprite.png</Source>
+      <Name>Images\Characters\eTSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\eTSprite.xnb</Output>
+      <Time>2012-10-31T21:29:05.2853397+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\CaptainWithShield.png</Source>
+      <Name>Images\Characters\CaptainWithShield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CaptainWithShield.xnb</Output>
+      <Time>2012-11-01T00:10:21.3949054+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\EnemyWeapon.png</Source>
+      <Name>Images\Characters\EnemyWeapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\EnemyWeapon.xnb</Output>
+      <Time>2012-11-01T10:35:33.9354114+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\RedSkull.png</Source>
+      <Name>Images\Characters\RedSkull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\RedSkull.xnb</Output>
+      <Time>2012-11-01T21:57:33.738875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\CaptainJump.png</Source>
+      <Name>Images\Characters\CaptainJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CaptainJump.xnb</Output>
+      <Time>2012-11-02T00:14:11.6958674+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Menu.jpg</Source>
+      <Name>Images\Background\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Menu.xnb</Output>
+      <Time>2012-11-03T13:12:04.3922712+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\vMenu.jpg</Source>
+      <Name>Images\Background\vMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\vMenu.xnb</Output>
+      <Time>2012-11-03T13:14:28.0934782+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Floor.png</Source>
+      <Name>Images\Background\Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Floor.xnb</Output>
+      <Time>2012-11-04T11:56:43.4671713+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Gradient.png</Source>
+      <Name>Images\Background\Gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Gradient.xnb</Output>
+      <Time>2012-11-04T11:56:43.5331722+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Trees.png</Source>
+      <Name>Images\Background\Trees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Trees.xnb</Output>
+      <Time>2012-11-04T11:56:43.6611739+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Mountain.png</Source>
+      <Name>Images\Background\Mountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Mountain.xnb</Output>
+      <Time>2012-11-04T13:16:10.6462256+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Score.spritefont</Source>
+      <Name>Fonts\Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb</Output>
+      <Time>2012-10-31T20:49:32.0361836+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\space5.jpg</Source>
+      <Name>Images\Background\space5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space5.xnb</Output>
+      <Time>2013-01-05T18:03:41.8896002+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\space4.jpg</Source>
+      <Name>Images\Background\space4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space4.xnb</Output>
+      <Time>2013-01-06T21:22:45.0643102+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\space2.jpg</Source>
+      <Name>Images\Background\space2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space2.xnb</Output>
+      <Time>2013-01-06T21:27:01.0535868+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\space6.jpg</Source>
+      <Name>Images\Background\space6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space6.xnb</Output>
+      <Time>2013-01-06T21:27:01.1385879+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-10T11:03:23.022636+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
